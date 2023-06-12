@@ -302,5 +302,10 @@
     },
     "php.validate.executablePath": "",
     "audioCues.lineHasError": "off",
+    "redhat.telemetry.enabled": true,
+    "liveshare.accessibility.voice": "ja-JP-Nanami",
+    "editor.language.brackets": [
+    
+    ],
     
 }
